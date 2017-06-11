@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.block-content {
+  padding: 15px;
+}
+.bg-grey {
+  background: #e4e4e4;
+}
